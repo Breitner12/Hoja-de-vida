@@ -1,3 +1,3 @@
 # Hoja-de-vida
 ##proyecto hoja de vida
-##<https://github.com/Breitner12/Hoja-de-vida/blob/main/aspirante.jpg?raw=true>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/d4NJRVT/aspirante.jpg" alt="aspirante" border="0"></a>
