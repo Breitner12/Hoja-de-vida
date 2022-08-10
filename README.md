@@ -14,16 +14,16 @@ colaborador, y con ganas de aprender cualquier otra labor
 ## Experiencia
 Productos Ramos S.A.S
 
-Cargo: pasante de distribución
+ - Cargo: pasante de distribución
 
-Jefe inmediato: Cesar Yamil Mercado Pereira
+ - Jefe inmediato: Cesar Yamil Mercado Pereira
 
-Duración: 6 meses
+ - Duración: 6 meses
 ## Formación
-técnico en sistemas
+ - técnico en sistemas
 
-bachiller académico
+ - bachiller académico
 ## Formación Complementaria
-servicio al cliente
+ - servicio al cliente
 
-fundamentos en HTML
+ - fundamentos en HTML
